@@ -48,5 +48,10 @@ docs/_themes/jrnl/static/less/3L.less
 # PyCharm Project files
 .idea/
 
+# wingIDE
+*.wpr
+*.wpu
+
+
 # export testing director
 exp/
